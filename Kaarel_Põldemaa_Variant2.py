@@ -57,3 +57,5 @@ print(sort_values(2,a,54,v,y,8))
 ##    print("Sisestatud ei ole ainult tähed")
 ##elif x.isdigit()==True:
 ##    print("Sisestatud on ainult numbrid")
+
+vägev
