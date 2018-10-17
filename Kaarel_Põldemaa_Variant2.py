@@ -58,4 +58,3 @@ print(sort_values(2,a,54,v,y,8))
 ##elif x.isdigit()==True:
 ##    print("Sisestatud on ainult numbrid")
 
-vägev
